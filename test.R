@@ -1,1 +1,1 @@
-print("This is my life!")
+library(usethis)
